@@ -5,10 +5,10 @@ Put the days of trying to decipher meaning from boring spreadsheets behind you. 
 In order to walk through the Jupyter notebook, you must first download the NYC Restaurant Inspection Results csv from [NYC Open Data](nycopendata.socrata.com). The CSV can be found [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD).
 
 Libraries Used
-- Pandas
-- Matplotlib
-- Seaborn
-- Basemap
-- Folium
-- Bokeh
-- Plotly
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](http://matplotlib.org)
+- [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/)
+- [Basemap](http://matplotlib.org/basemap/users/index.html)
+- [Folium](https://pypi.python.org/pypi/folium)
+- [Bokeh](http://bokeh.pydata.org/en/latest/)
+- [Plot.ly](https://plot.ly/python/)
