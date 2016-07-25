@@ -9,10 +9,26 @@ In order to walk through the Jupyter notebook, you must first download the NYC R
 
 Libraries Used
 - [Pandas](http://pandas.pydata.org/)
+  - Python library to provide data analysis features
+  - Built on NumPy, SciPy, and matplotlib
+  - Key components
+    - Series
+    - DataFrames
 - [Matplotlib](http://matplotlib.org)
+  - MATLAB like plotting framework
 - [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/)
+  - Built on top of matplotlib
+  - Creates more sophisticated graphs that look more professional
 - [Basemap](http://matplotlib.org/basemap/users/index.html)
+  - library for plotting 2D data on maps in Python
+  - Had lots of problems with installation
 - [Folium](https://pypi.python.org/pypi/folium)
+  - Visualize data on a Leaflet map
+  - Built-in tilesets from:
+    - OpenStreetMap, MapQuest Open, MapQuest Open Aerial, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys.
+
 - [Bokeh](http://bokeh.pydata.org/en/latest/)
+  - A Python interactive visualization library that targets modern web browsers for presentations.
 - [Plot.ly](https://plot.ly/python/)
+  - Make interactive charts online from Excel or CSV data.
 
