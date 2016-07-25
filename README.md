@@ -26,7 +26,6 @@ Libraries Used
   - Visualize data on a Leaflet map
   - Built-in tilesets from:
     - OpenStreetMap, MapQuest Open, MapQuest Open Aerial, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys.
-
 - [Bokeh](http://bokeh.pydata.org/en/latest/)
   - A Python interactive visualization library that targets modern web browsers for presentations.
 - [Plot.ly](https://plot.ly/python/)
