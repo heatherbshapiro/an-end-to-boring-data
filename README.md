@@ -5,7 +5,7 @@ Put the days of trying to decipher meaning from boring spreadsheets behind you. 
 
 ## The Slides for this talk are available [here](http://www.slideshare.net/HeatherShapiro/an-end-to-boring-data-with-visualizations-in-python?ref=https://www.linkedin.com/)
 
-In order to walk through the Jupyter notebook, you must first download the NYC Restaurant Inspection Results csv from [NYC Open Data](nycopendata.socrata.com). The CSV can be found [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD).
+In order to walk through the Jupyter notebook, you must first download the NYC Restaurant Inspection Results csv from [NYC Open Data](nycopendata.socrata.com). The CSV can be found [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD). I also have the curl link to the csv in the python and jupter notebook files. 
 
 Libraries Used
 - [Pandas](http://pandas.pydata.org/)
